@@ -1,45 +1,77 @@
-## Hi there 👋
+<!-- BANNER CON FUENTE ELEGANTE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:0f172a,100:ec4899&height=220&section=header&text=Laura%20Cristina%20Prieto&fontSize=48&fontFamily=serif&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+</p>
 
-# Hi there, I'm Laura Cristina Prieto 👋
-### Data Analyst | Business Intelligence & Product Analytics Specialist 🚀
+<!-- SUBTÍTULO ÚNICO Y LIMPIO -->
+<p align="center">
+  <img src="https://img.shields.io/badge/DATA_%26_PRODUCT_ANALYST-BI_SPECIALIST-06b6d4?style=for-the-badge&labelColor=0f172a&color=06b6d4" alt="Data & Product Analyst" />
+</p>
 
-Analista de Datos con sólida experiencia en la transformación de datos complejos en decisiones estratégicas de negocio. Especialista en la construcción de dashboards ejecutivos, análisis de cohortes, optimización de funnels de conversión y retención de clientes.
+<!-- FRASE DE VALOR -->
+<p align="center">
+  <sub><b>Welcome to my data space! ⚡ Transforming data into business impact & product growth 🚀</b></sub>
+</p>
 
-📍 **Bogotá, Colombia** | 📧 cristinaprietodev@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/laura-cristina-prieto-softwar3/)
+<br>
+
+<!-- BADGES DE TU TECH STACK -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
+
+## 📌 About Me
+
+A **Data & Product Analyst** driven by transforming complex raw data into actionable business strategies, product growth, and optimized customer journeys. 
+
+### 🚀 Key Value & Core Competencies
+* **Product Analytics & Retention:** Experienced in cohort analysis, churn reduction strategies, and sales/conversion funnel optimization.
+* **Business Intelligence:** Design and deployment of executive dashboards tailored for fast, data-driven decision-making.
+* **Data Transformation:** Processing and modeling datasets to uncover revenue opportunities and operational efficiencies.
+
+---
+
+### 🛠️ Tech Stack & Capabilities
+* **Languages & Querying:** Python (Pandas, NumPy), SQL
+* **Visualization & BI:** Tableau, Power BI
+* **Analytical Focus:** Funnel Optimization, Cohort Analysis, Customer Churn, Revenue Growth
 
 ---
 
-## 🛠️ Tech Stack & Herramientas
-
-- **Lenguajes & Análisis:** Python (Pandas, NumPy), SQL (Consultas avanzadas, JOINs, CTEs, Window Functions)
-- **Visualización & BI:** Tableau Public, Power BI, Modelado en Esquema Estrella, KPIs Ejecutivos
-- **Metodologías Analíticas:** Análisis de Cohortes (Retención y LTV), Funnels de Conversión, A/B Testing, Data Quality
-
----
-
-## 📌 Proyectos Destacados
-
-### 📂 [ConnectaTel - Análisis de Retención & Churn](https://github.com/cristinaprietodev-gif/telecom-analysis-connectatel.laurap)
-- **Problema de Negocio:** Identificación de patrones de deserción de clientes en el sector de telecomunicaciones.
-- **Herramientas:** Python, SQL, Tableau.
-- **Impacto:** Propuesta de estrategia de migración a contratos anuales y automatización de pagos para reducir el churn en clientes de alto riesgo.
-
-### 📂 [RappiPlus - Análisis Comercial & Funnel de Conversión](https://github.com/cristinaprietodev-gif)
-- **Problema de Negocio:** Auditoría de calidad de datos, evaluación de rentabilidad y optimización del embudo de ventas.
-- **Herramientas:** PostgreSQL, Python (Pandas), Power BI / Tableau.
-- **Impacto:** Identificación de puntos de caída (*drop-off*) en el checkout e integración de métricas financieras (Revenue, COGS, Margen Nulo).
-
-### 📂 [Andes Capital - Dashboard Inmobiliario & Cohortes](https://github.com/cristinaprietodev-gif)
-- **Problema de Negocio:** Seguimiento del rendimiento comercial, ventas ejecutivas y comportamiento de compra recurrente.
-- **Herramientas:** Tableau Desktop, Análisis de Cohortes.
-- **Impacto:** Construcción de matriz de retención y desglose de ventas por canales y categorías de propiedades.
+### 📫 Let's Connect!
+📍 **Location:** Bogotá, Colombia  
+📧 **Email:** [cristinaprietodev@gmail.com](mailto:cristinaprietodev@gmail.com)  
+💼 **LinkedIn:** [Laura Cristina Prieto](https://www.linkedin.com)
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 🚀 Featured Projects
 
-![Laura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristinaprietodev-gif&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cristinaprietodev-gif&layout=compact&theme=radial)
+Here are a few projects where I transformed raw data into actionable business strategies and product insights:
+
+### 📱 ConnectaTel — Customer Churn & Retention Strategy
+* **The Challenge:** The company faced accelerating customer churn in the telecom sector without a clear understanding of the root causes.
+* **What I Did:** Analyzed user behavior using **Python (Pandas)** and built visual data models in **Power BI** to identify key cancellation patterns in monthly plans.
+* **Impact & Recommendations:** Proposed payment automation workflows and migration strategies to annual contracts, targeting a **15% to 20% reduction in churn**.
 
 ---
-*“Traduciendo datos en decisiones que impulsan la rentabilidad y el crecimiento del negocio.”*
+
+### 🛒 E-Commerce Sales Funnel & Margin Optimization
+* **The Challenge:** Identified where users dropped off in the sales funnel and where profitability was leaking.
+* **What I Did:** Wrote advanced **SQL** queries to clean and segment purchasing behavior, integrating dynamic executive dashboards in **Tableau**.
+* **Impact & Recommendations:** Redesigned checkout friction points and integrated core financial metrics (Revenue, COGS, Net Margin) to prioritize high-margin products.
+
+---
+
+### 📊 Cohort Analysis & Executive Performance Dashboard
+* **The Challenge:** Evaluated financial health and long-term customer retention for executive decision-making.
+* **What I Did:** Developed a cohort analysis to measure Customer Lifetime Value (LTV) and retention rates across acquisition channels.
+* **Impact & Recommendations:** Enabled product leaders to pinpoint which acquisition channels yield the most loyal and profitable long-term customers.
+
+
+
+
