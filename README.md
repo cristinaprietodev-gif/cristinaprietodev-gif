@@ -18,7 +18,7 @@
 </p>
 
 ---
-# I'm Laura C Prieto 👋
+# I'm Laura Prieto 👋
 ### Data & Product Analyst
 
 I connect quantitative analysis with user psychology to translate metrics into strategic business decisions. My focus is on identifying behavior patterns, optimizing conversion funnels, and reducing customer churn.
