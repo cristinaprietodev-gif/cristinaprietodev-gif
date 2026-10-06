@@ -27,8 +27,8 @@ Conecto el análisis cuantitativo con la psicología del usuario para traducir m
 ---
 
 ### 💡 ¿Qué problemas de negocio resuelvo?
-* **Optimización de Producto & Conversión:** Análisis de embudos de conversión (*funnels*), detección de puntos de fricción (*drop-offs*) y métricas de retención[cite: 1].
-* **Calidad & Integridad de Datos:** Diagnóstico de bases de datos transaccionales, tratamiento de datos faltantes (*MAR/MCAR*) y detección de valores atípicos (*outliers*)[cite: 1].
+* **Optimización de Producto & Conversión:** Análisis de embudos de conversión (*funnels*), detección de puntos de fricción (*drop-offs*) y métricas de retención.
+* **Calidad & Integridad de Datos:** Diagnóstico de bases de datos transaccionales, tratamiento de datos faltantes (*MAR/MCAR*) y detección de valores atípicos (*outliers*).
 * **Visión de Negocio:** Traducción de consultas complejas en SQL/Python a dashboards e *insights* ejecutivos para la toma de decisiones gerenciales.
 
 ---
