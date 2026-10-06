@@ -18,41 +18,36 @@
 </p>
 
 ---
+# I'm Laura C Prieto 👋
+### Data & Product Analyst
 
-# ¡Hola! Soy Laura Cristina Prieto 👋
-### Analista de Datos y Producto | Data & Product Analyst
-
-Conecto el análisis cuantitativo con la psicología del usuario para traducir métricas en decisiones estratégicas de negocio[cite: 1]. Mi enfoque está en identificar patrones de comportamiento, optimizar *funnels* de conversión y reducir la fuga de clientes (*churn*).
-
----
-
-### 💡 ¿Qué problemas de negocio resuelvo?
-* **Optimización de Producto & Conversión:** Análisis de embudos de conversión (*funnels*), detección de puntos de fricción (*drop-offs*) y métricas de retención.
-* **Calidad & Integridad de Datos:** Diagnóstico de bases de datos transaccionales, tratamiento de datos faltantes (*MAR/MCAR*) y detección de valores atípicos (*outliers*).
-* **Visión de Negocio:** Traducción de consultas complejas en SQL/Python a dashboards e *insights* ejecutivos para la toma de decisiones gerenciales.
-
----
-### 🚀 Proyectos Destacados
-
-* 📊 **[RappiPlus | Diagnóstico Estratégico & Analítica de Producto](https://github.com/cristinaprietodev-gif/rappiplus-analisis-producto)**  
-  *Análisis de rentabilidad ($51.9M Revenue), retención por cohortes y optimización del funnel de conversión.*
-
-* 📈 **[Andes Capital | Dashboard de Desempeño Comercial & BI](https://github.com/cristinaprietodev-gif/Andes-Capital-)**  
-  *Auditoría de calidad de datos (Data Quality), análisis de ventas y visualización ejecutiva en Tableau/Power BI.*
-
-* 📱 **[ConnectaTel | Análisis de Clientes y Consumo](https://github.com/cristinaprietodev-gif/telecom-analysis-connectatel.laurap)**  
-  *Análisis exploratorio de datos (EDA), tratamiento de outliers y segmentación estratégica para reducción de churn.*
-iagnóstico de integridad de datos, manejo de patrones de datos faltantes y análisis de cohortes para adquisición empresarial.
+I connect quantitative analysis with user psychology to translate metrics into strategic business decisions. My focus is on identifying behavior patterns, optimizing conversion funnels, and reducing customer churn.
 
 ---
 
-### 🎯 Lo que estoy buscando
-Busco sumarme a un equipo de **Producto, Growth o Analítica de Datos** como *Data Analyst* o *Product Analyst* donde pueda aportar rigor cuantitativo y sensibilidad por la experiencia del usuario.
+### 💡 Business Problems I Solve
+
+* **Product Optimization & Conversion:** Conversion funnel analysis, drop-off detection, and cohort retention metrics.
+* **Data Quality & Integrity:** Transactional database diagnostics, missing data treatment (MAR/MCAR), and outlier detection.
+* **Business Acumen:** Translating complex SQL/Python queries into executive dashboards and actionable insights for business decision-making.
 
 ---
 
-<p align="center">
-  <b>📫 Contacto:</b> 
-  <a href="https://www.linkedin.com/in/tu-perfil-aqui"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:tu-correo@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+### 🚀 Featured Projects
+
+* 📊 **[RappiPlus | Strategic Diagnostics & Product Analytics](https://github.com/cristinaprietodev-gif/rappiplus-analisis-producto)**  
+  *Profitability analysis ($51.9M Revenue), cohort retention, and conversion funnel optimization.*
+
+* 📈 **[Andes Capital | Commercial Performance & BI Dashboard](https://github.com/cristinaprietodev-gif/Andes-Capital-)**  
+  *Data quality auditing, sales analysis, and executive visualization in Tableau/Power BI.*
+
+* 📱 **[ConnectaTel | Customer & Consumption Analysis](https://github.com/cristinaprietodev-gif/telecom-analysis-connectatel.laurap)**  
+  *Exploratory Data Analysis (EDA), outlier treatment, and strategic customer segmentation for churn reduction.*
+
+---
+
+### 🎯 What I'm Looking For
+
+I'm looking to join a **Product, Growth, or Data Analytics** team as a **Data Analyst** or **Product Analyst**, where I can contribute quantitative rigor and user experience sensitivity.
+
+📫 **Contact:** [cristinaprieto.dev@gmail.com](mailto:cristinaprieto.dev@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/laura-cristina)
