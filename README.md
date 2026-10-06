@@ -32,11 +32,17 @@ Conecto el análisis cuantitativo con la psicología del usuario para traducir m
 * **Visión de Negocio:** Traducción de consultas complejas en SQL/Python a dashboards e *insights* ejecutivos para la toma de decisiones gerenciales.
 
 ---
+### 🚀 Proyectos Destacados
 
-### 📌 Proyectos Destacados
-* 📊 **[Diagnóstico Estratégico & Analítica de Producto - RappiPlus](https://github.com/cristinaprietodev-gif/tu-repositorio-rappiplus):** Evaluación de rentabilidad, análisis de cohortes de retención y embudo de conversión para el servicio de suscripción.
-* Auditoría integral de calidad de datos (Data Quality/Andes-Capital-](https://github.com/cristinaprietodev-gif/Andes-Capital-)
-* 🏬 **[Auditoría de Calidad de Datos & Integración - EverPeak / SilverBasket](https://github.com/cristinaprietodev-gif/tu-repositorio-everpeak):** Diagnóstico de integridad de datos, manejo de patrones de datos faltantes y análisis de cohortes para adquisición empresarial.
+* 📊 **[RappiPlus | Diagnóstico Estratégico & Analítica de Producto](https://github.com/cristinaprietodev-gif/rappiplus-analisis-producto)**  
+  *Análisis de rentabilidad ($51.9M Revenue), retención por cohortes y optimización del funnel de conversión.*
+
+* 📈 **[Andes Capital | Dashboard de Desempeño Comercial & BI](https://github.com/cristinaprietodev-gif/Andes-Capital-)**  
+  *Auditoría de calidad de datos (Data Quality), análisis de ventas y visualización ejecutiva en Tableau/Power BI.*
+
+* 📱 **[ConnectaTel | Análisis de Clientes y Consumo](https://github.com/cristinaprietodev-gif/telecom-analysis-connectatel.laurap)**  
+  *Análisis exploratorio de datos (EDA), tratamiento de outliers y segmentación estratégica para reducción de churn.*
+iagnóstico de integridad de datos, manejo de patrones de datos faltantes y análisis de cohortes para adquisición empresarial.
 
 ---
 
