@@ -35,7 +35,7 @@ Conecto el análisis cuantitativo con la psicología del usuario para traducir m
 
 ### 📌 Proyectos Destacados
 * 📊 **[Diagnóstico Estratégico & Analítica de Producto - RappiPlus](https://github.com/cristinaprietodev-gif/tu-repositorio-rappiplus):** Evaluación de rentabilidad, análisis de cohortes de retención y embudo de conversión para el servicio de suscripción.
-* [https://github.com/cristinaprietodev-gif/Andes-Capital-](https://github.com/cristinaprietodev-gif/Andes-Capital-)
+* Auditoría integral de calidad de datos (Data Quality/Andes-Capital-](https://github.com/cristinaprietodev-gif/Andes-Capital-)
 * 🏬 **[Auditoría de Calidad de Datos & Integración - EverPeak / SilverBasket](https://github.com/cristinaprietodev-gif/tu-repositorio-everpeak):** Diagnóstico de integridad de datos, manejo de patrones de datos faltantes y análisis de cohortes para adquisición empresarial.
 
 ---
